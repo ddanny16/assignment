@@ -5,3 +5,4 @@
  the string variable with :bradah;
  thee boolean variable with:true;
 an empty variable
+an array variable with phone options
