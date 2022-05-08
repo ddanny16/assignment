@@ -6,3 +6,4 @@
  thee boolean variable with:true;
 an empty variable
 an array variable with phone options
+[iphone,nokia,infinix]
