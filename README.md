@@ -7,3 +7,5 @@
 an empty variable
 an array variable with phone options
 [iphone,nokia,infinix]
+
+began to log data types to console
